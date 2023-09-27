@@ -8,7 +8,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Ruby-Enumerabler\] ](#-ruby-enumerabler-)
+- [📖 \[Ruby-Bank\] ](#-ruby-bank-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -27,11 +27,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Ruby-Enumerabler] <a name="about-project"></a>
+# 📖 [Ruby-Bank] <a name="about-project"></a>
 
 > Project description.
 
-**[Ruby Enumerable]** is a Ruby program that uses Enumerable. 
+**[Ruby Bank]** is a Ruby program that uses Enumerable. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,7 +53,11 @@
 
 > Key features of the application include.
 
-- **[Decode Ruby Enumerables]**
+- **[Create Customers]**
+- **[Create Accounts]**
+- **[Withdraw]**
+- **[Deposit]**
+- **[Print Statements]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -84,7 +88,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Mahdi-Niazi/Ruby-enumerabler.git
+  git clone https://github.com/Mahdi-Niazi/Ruby-bankr.git
 ```
 
 ### Install
@@ -104,7 +108,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
-- **[ruby ruby-enumerabler.rb]**
+- **[ruby ruby-bankr.rb]**
 
 <!--
 Example command:
@@ -128,12 +132,6 @@ Example command:
 - Twitter: [@twitterhandle](https://twitter.com/chrisuduekwe)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/chudisoft)
 
-👤 **Mohammad Mahdi Niazi**
-
-- GitHub: [@Mahdi-Niazi](https://github.com/Mahdi-Niazi)
-- Twitter: [@mahdinazi1](https://twitter.com/mahdiniazi1)
-- LinkedIn: [Mohammad Mahdi Niazi](https://www.linkedin.com/in/mohammad-mahdi-niazi/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -142,7 +140,7 @@ Example command:
 
 > Features of this project include.
 
-  **[Conver text to Ruby Enumerable]**
+  **[Conver text to Ruby Bank]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

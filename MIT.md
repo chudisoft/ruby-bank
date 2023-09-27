@@ -1,4 +1,4 @@
-## Copyright 2021, [Mohammad Mahdi Niazi]
+## Copyright 2021, [Christopher Uduekwe]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this [Morse Decoder] and associated documentation files, to deal in the [Morse Decoder] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [Morse Decoder], and to permit persons to whom the [Morse Decoder] is furnished to do so, subject to the following conditions:
 
